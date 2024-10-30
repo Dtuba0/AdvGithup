@@ -4,6 +4,6 @@ public class Student {
 
 
     //tubydg
-    public String tubydg
+    public String tubydg;
 
 }
